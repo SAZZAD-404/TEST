@@ -7,4 +7,4 @@ cd TEST
 
 ls
 
-python PANTHER_TEST.py
+python PANTHER_TEST_1.py
