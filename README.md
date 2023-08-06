@@ -10,4 +10,4 @@ cd TEST
 
 ls
 
-python PANTHER_TEST_1.py
+python PANTHER_enc.py
