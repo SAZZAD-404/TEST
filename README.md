@@ -1,4 +1,4 @@
-1.TOOL FILE+RANDOM CLONE
+1.TOOL RANDOM CLONE
 
 cd
 
@@ -8,4 +8,4 @@ git clone https://github.com/Sazzad-on-fire/TEST.git
 
 cd TEST
 
-python FILE-X1.py
+python BBP.py
