@@ -8,4 +8,4 @@ git clone https://github.com/Sazzad-on-fire/TEST.git
 
 cd TEST
 
-python BBP.py
+python BBP-F.py
